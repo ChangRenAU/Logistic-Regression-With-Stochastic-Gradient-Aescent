@@ -1,6 +1,10 @@
+Implementing Logistic Regression for Protein Contact Map prediction
+Stochastic Gradient Ascent Based Optimization Algorithm applied to maximum the log likelihood. 
+
 ------------------
 Usage Instructions
 ------------------
+
 Operating System: Mac OS
 
 This program runs on python 3, make sure the python version is correct:
